@@ -1,3 +1,3 @@
 # README #
 
-BluIP's private CocoaPods specs.
+Private CocoaPods specs.
